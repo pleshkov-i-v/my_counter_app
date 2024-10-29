@@ -1,0 +1,16 @@
+name: domain
+description: Domain layer of the Counter mobile application.
+version: 1.0.0
+publish_to: none
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.3.4
+
+# dependencies:
+# path: ^1.8.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
+  mocktail: ^1.0.4

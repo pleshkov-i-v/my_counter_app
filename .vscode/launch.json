@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_application_6",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_application_6 (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_application_6 (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "data",
+            "cwd": "packages/data",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "domain",
+            "cwd": "packages/domain",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "in_memory_repositories",
+            "cwd": "packages/in_memory_repositories",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "shared_preferences_repositories",
+            "cwd": "packages/shared_preferences_repositories",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "shared_preferences_repositories (profile mode)",
+            "cwd": "packages/shared_preferences_repositories",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "shared_preferences_repositories (release mode)",
+            "cwd": "packages/shared_preferences_repositories",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
