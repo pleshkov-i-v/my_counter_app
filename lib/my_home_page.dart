@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:domain/domain.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_6/service_provider.dart';
+import 'package:my_counter_app/service_provider.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});

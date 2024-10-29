@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_6/main.dart';
-import 'package:flutter_application_6/my_home_page.dart';
+import 'package:my_counter_app/my_home_page.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
